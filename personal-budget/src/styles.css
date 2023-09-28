@@ -443,7 +443,7 @@ header h2 {
   margin: 0;
 }
 
-.text1-box {
+.textbox10 {
 display: inline-block;
 width: 100%;
 max-width: 340px;
@@ -451,3 +451,11 @@ text-align: justify;
 margin: 20px;
 }
 
+div.new {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 960px;
+  height: 500px;
+  position: relative;
+  align-items: center;
+  margin: 0 auto; /* Center the chart horizontally */
+}
